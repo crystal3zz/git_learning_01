@@ -1,4 +1,4 @@
-public class Array {
+﻿public class Array {
     /**
      * 1) 数组的插入、删除、按照下标随机访问操作；
      * 2）数组中的数据是int类型的；
@@ -20,6 +20,8 @@ public class Array {
         }
         return -1;
     }
+    
+    public void add(){}
     //在指定位置插入元素
     public boolean insert(int index,int num){
         if(count==n){
