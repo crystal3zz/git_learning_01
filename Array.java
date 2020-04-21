@@ -1,8 +1,8 @@
-public class Array {
+﻿public class Array {
     /**
      * 1) 数组的插入、删除、按照下标随机访问操作；
      * 2）数组中的数据是int类型的；
-     *
+     * 3）作者：我
      */
     private int data[];
     private int n;
